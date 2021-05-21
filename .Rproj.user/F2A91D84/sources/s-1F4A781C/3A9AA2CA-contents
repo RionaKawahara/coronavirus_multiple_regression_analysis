@@ -1,0 +1,1 @@
+cor(data1,method="pearson")
